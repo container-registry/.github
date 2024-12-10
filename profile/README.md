@@ -17,6 +17,8 @@ On top, we maintain and contribute to Harbor and the cloud native ecosystem.
 
 ## Interesting Open-Source Projects
 
+🗼 [Harbor Next](https://github.com/container-registry/harbor-next) Next generation Harbor. Use testes and verified features and capabiliites not yet upstream.
+
 🎉 [Harbor Awesome](https://github.com/container-registry/awesome-harbor) lists awesome Harbor Registry related projects, libraries and articles.  
 
 🛰️ [Harbor Satellite](https://github.com/container-registry/harbor-satellite/) decentralized container registry for better accessibility to edge devices. 
