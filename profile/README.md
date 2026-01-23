@@ -1,13 +1,13 @@
 # `print('Hello, World!')`
 
-We are 8gears Container Registry, and we create solutions for managing container images using Harbor.
+We are 8gears Container Registry, and we build, distribute and operate container mangement solutions with Harbor.
 On top, we maintain and contribute to Harbor and the cloud native ecosystem.
 
 ## What We Do
 
 🎯 We're actively involved in the cloud-native ecosystem, contributing to the Harbor project
 
-🎱 [8gears Container-Registry](https://container-registry.com/) is our self-service SaaS based Harbor offering for organizations seeking a versatile and secure container registry solution.
+🎱 [8gears Container-Registry](https://container-registry.com/) is our Harbor based distribution for enterprises and a SaaS for organizations seeking a powerful and easy to use container registry.
 
 🎈 We collaborate with cloud providers developing customized container registry solutions based on Harbor.
 
@@ -17,11 +17,11 @@ On top, we maintain and contribute to Harbor and the cloud native ecosystem.
 
 ## Interesting Open-Source Projects
 
-🗼 [Harbor Next](https://github.com/container-registry/harbor-next) Next generation Harbor. Use testes and verified features and capabiliites not yet upstream.
+🗼 [Harbor Next](https://github.com/container-registry/harbor-next) Our next generation Harbor and foundation for 8gears container registry, with additional features and capabiliites not in scope of upstream Harbor.
 
-🎉 [Harbor Awesome](https://github.com/container-registry/awesome-harbor) lists awesome Harbor Registry related projects, libraries and articles.  
+🎉 [Awesome Harbor](https://github.com/container-registry/awesome-harbor) lists awesome Harbor registry related projects, libraries and articles.  
 
-🛰️ [Harbor Satellite](https://github.com/container-registry/harbor-satellite/) decentralized container registry for better accessibility to edge devices. 
+🛰️ [Harbor Satellite](https://github.com/container-registry/harbor-satellite/) decentralized container registry for for edge and IOT. 
 
 🪆 [The Helm Charts OCI Proxy](https://github.com/container-registry/helm-charts-oci-proxy) to proxy and transform Helm Chart into OCI images on the fly. Address any Helm Chart as OCI image.  
 
