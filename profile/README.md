@@ -17,7 +17,7 @@ On top, we maintain and contribute to Harbor and the cloud native ecosystem.
 
 ## Interesting Open-Source Projects
 
-🗼 [8gcr](https://github.com/container-registry/8gcr) our open-source Harbor distribution (formerly Harbor Next), with features and capabilities not in scope of upstream Harbor.
+🗼 [8gcr](https://github.com/container-registry/container-registry) our open-source Harbor distribution (formerly Harbor Next), with features and capabilities not in scope of upstream Harbor.
 
 🎉 [Awesome Harbor](https://github.com/container-registry/awesome-harbor) lists awesome Harbor registry related projects, libraries and articles.  
 
